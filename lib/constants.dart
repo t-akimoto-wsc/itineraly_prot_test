@@ -5,8 +5,8 @@ String get baseUrl {
 }
 
 class ApiEndpoints {
-  static final String login = '$baseUrl/login.php';
-  static final String register = '$baseUrl/register.php';
+  static final String login = '$baseUrl/login_test.php';
+  static final String register = '$baseUrl/register_test.php';
 }
 
 class AppMessages {
